@@ -1,0 +1,7 @@
+{
+    "plugin-data":
+    {
+        "name": "Bootstrap toolbar",
+        "description": "Adds bootstrap grid support in tinyMCE along with a handy toolbar"
+    }
+}
